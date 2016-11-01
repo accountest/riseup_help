@@ -226,10 +226,10 @@ h2. systemli.org
 
 h2. shelter.is
 
-[[shelter.is->https://www.shelter.is/]] Autonomous tech collective that provides secure and privacy friendly infrastructure that are run with solidarity in mind rather than motivated by profit. Hosted in a friendly data center and network where only a few trusted people have have physical access to.
+[[shelter.is->https://www.shelter.is/]] is a autonomous tech collective that provides secure and privacy friendly infrastructure that are run with solidarity in mind rather than motivated by profit. Hosted in a friendly data center and network where only a few trusted people have have physical access to.
 
 * VPS
-* Wordpress hosting (with SSL by default)
+* Wordpress hosting (Possible with your own domain and SSL by default)
 * Mail accounts
 * VPN
 * Support in English
